@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "clone-yt-bdc63",
+    "gmailclone": "clone-yt-bdc63"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
